@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=1200&color=F2F2F2&center=true&vCenter=true&width=620&lines=Petrick+Amorim;Software+Developer;Full+Stack+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Angular" alt="Petrick Amorim" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=1200&color=F2F2F2&center=true&vCenter=true&width=620&lines=Petrick+Amorim;Software+Developer" alt="Petrick Amorim" />
 
 `Software Developer @ Senior Sistemas` · `São Paulo, Brasil`
 
@@ -27,26 +27,22 @@ Curso **Análise e Desenvolvimento de Sistemas** na Anhanguera (2024 — 2026).
 
 ---
 
-### Como eu construo
+### Stack
 
-```
-01  Frontend               Angular · TypeScript · JavaScript
-02  Backend                C# · .NET · ASP.NET Core · EF Core
-03  Banco de Dados         SQL Server · MySQL
-04  DevOps                 Docker · GitHub Actions · Azure DevOps
-05  Segurança & Qualidade  OWASP · SonarQube · xUnit · OpenTelemetry
-```
+<div align="center">
 
----
+![Angular](https://img.shields.io/badge/Angular-050505?style=flat-square&logo=angular&logoColor=f2f2f2)
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=f2f2f2)
+![C#](https://img.shields.io/badge/C%23-050505?style=flat-square&logo=dotnet&logoColor=f2f2f2)
+![.NET](https://img.shields.io/badge/.NET-050505?style=flat-square&logo=dotnet&logoColor=f2f2f2)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-050505?style=flat-square&logo=microsoftsqlserver&logoColor=f2f2f2)
+![MySQL](https://img.shields.io/badge/MySQL-050505?style=flat-square&logo=mysql&logoColor=f2f2f2)
+![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=f2f2f2)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-050505?style=flat-square&logo=githubactions&logoColor=f2f2f2)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-050505?style=flat-square&logo=azuredevops&logoColor=f2f2f2)
+![SonarQube](https://img.shields.io/badge/SonarQube-050505?style=flat-square&logo=sonarqube&logoColor=f2f2f2)
 
-### Projetos
-
-| | Projeto | Stack |
-|---|---|---|
-| 01 | [Ju Duarte Beauty Studio](https://site-julia-opal.vercel.app) — landing page de cliente real, em produção | Angular · SCSS · Vercel |
-| 02 | [SecureUserAuthAPI](https://github.com/petrickamorim/SecureUserAuthAPI) — autenticação com JWT + Refresh Token | .NET 8 · EF Core · SQLite |
-| 03 | [Delivery System](https://github.com/petrickamorim/delivery-system) — gestão de entregas com Clean Architecture | .NET · C# |
-| 04 | [TaskFlow](https://github.com/petrickamorim/TaskFlow) — tarefas com frontend, backend e Swagger | Full stack |
+</div>
 
 ---
 
