@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2600&pause=1200&color=F2F2F2&center=true&vCenter=true&width=620&lines=Petrick+Amorim;Software+Developer" alt="Petrick Amorim" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg" />
+  <img src="assets/name-light.svg" alt="Petrick Amorim" />
+</picture>
 
 `Software Developer @ Senior Sistemas` · `São Paulo, Brasil`
 
