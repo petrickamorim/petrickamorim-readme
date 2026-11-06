@@ -49,9 +49,6 @@ Curso **Análise e Desenvolvimento de Sistemas** na Anhanguera (2024 — 2026).
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=petrickamorim&show_icons=true&hide_title=true&hide_border=true&bg_color=050505&text_color=f2f2f2&icon_color=a855f7&title_color=a855f7" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrickamorim&layout=compact&hide_border=true&bg_color=050505&text_color=f2f2f2&title_color=a855f7" height="150" />
-
 <img src="https://streak-stats.demolab.com?user=petrickamorim&hide_border=true&background=050505&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=f2f2f2&currStreakNum=f2f2f2&sideNums=f2f2f2&dates=8a8a8a&stroke=1d1d1d" />
 
 </div>
