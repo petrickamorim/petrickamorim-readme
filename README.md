@@ -32,20 +32,18 @@ Curso **Análise e Desenvolvimento de Sistemas** na Anhanguera (2024 — 2026).
 
 ### Stack
 
-<div align="center">
-
-![Angular](https://img.shields.io/badge/Angular-050505?style=flat-square&logo=angular&logoColor=f2f2f2)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=f2f2f2)
-![C#](https://img.shields.io/badge/C%23-050505?style=flat-square&logo=dotnet&logoColor=f2f2f2)
-![.NET](https://img.shields.io/badge/.NET-050505?style=flat-square&logo=dotnet&logoColor=f2f2f2)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-050505?style=flat-square&logo=microsoftsqlserver&logoColor=f2f2f2)
-![MySQL](https://img.shields.io/badge/MySQL-050505?style=flat-square&logo=mysql&logoColor=f2f2f2)
-![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=f2f2f2)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-050505?style=flat-square&logo=githubactions&logoColor=f2f2f2)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-050505?style=flat-square&logo=azuredevops&logoColor=f2f2f2)
-![SonarQube](https://img.shields.io/badge/SonarQube-050505?style=flat-square&logo=sonarqube&logoColor=f2f2f2)
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" title="SQL Server" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="40" height="40" />
+</p>
 
 ---
 
