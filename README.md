@@ -5,7 +5,7 @@
   <img src="assets/name-light.svg" alt="Petrick Amorim" />
 </picture>
 
-`Software Developer @ Senior Sistemas` · `São Paulo, Brasil`
+`Software Developer Full Stack` · `São Paulo, Brasil`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=flat-square&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/petrick-amorim-62b215302/)
 [![Instagram](https://img.shields.io/badge/Instagram-050505?style=flat-square&logo=instagram&logoColor=a855f7)](https://instagram.com/amorinx_)
